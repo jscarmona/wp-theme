@@ -39,4 +39,8 @@ export default {
     ],
     testTask: 'mocha',
   },
+  'copy-theme': {
+    src: './dest/**/*',
+    dest: '../public/content/themes',
+  },
 };

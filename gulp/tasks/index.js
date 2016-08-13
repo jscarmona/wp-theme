@@ -5,6 +5,7 @@ import sassLint from 'gulp-ignite-sass-lint';
 import eslint from 'gulp-ignite-eslint';
 import istanbul from 'gulp-ignite-istanbul';
 
+import copyTheme from './copy-theme';
 import dev from './dev';
 
 export default [
@@ -14,5 +15,6 @@ export default [
   sassLint,
   eslint,
   istanbul,
+  copyTheme,
   dev,
 ];
