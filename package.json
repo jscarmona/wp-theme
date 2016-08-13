@@ -14,5 +14,23 @@
   "bugs": {
     "url": "https://github.com/jscarmona/wp-theme/issues"
   },
-  "homepage": "https://github.com/jscarmona/wp-theme#readme"
+  "homepage": "https://github.com/jscarmona/wp-theme#readme",
+  "devDependencies": {
+    "babel-eslint": "6.1.0",
+    "babel-preset-es2015": "6.13.2",
+    "babelify": "7.3.0",
+    "chai": "3.5.0",
+    "envify": "3.4.1",
+    "eslint": "2.10.2",
+    "eslint-config-airbnb-base": "3.0.1",
+    "eslint-plugin-import": "1.8.0",
+    "gulp": "3.9.1",
+    "gulp-ignite": "1.5.0",
+    "gulp-ignite-browserify": "1.2.0",
+    "gulp-ignite-eslint": "1.0.3",
+    "gulp-ignite-istanbul": "1.0.0",
+    "gulp-ignite-mocha": "1.0.0",
+    "gulp-ignite-sass": "1.3.0",
+    "gulp-ignite-sass-lint": "1.0.0"
+  }
 }
