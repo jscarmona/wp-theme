@@ -1,0 +1,18 @@
+{
+  "name": "wp-theme",
+  "version": "1.0.0",
+  "description": "A starter theme for WordPress",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscarmona/wp-theme.git"
+  },
+  "author": "Javier Carmona <javierscarmona@gmail.com> (http://ten13media.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jscarmona/wp-theme/issues"
+  },
+  "homepage": "https://github.com/jscarmona/wp-theme#readme"
+}
